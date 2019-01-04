@@ -1,6 +1,9 @@
-# cvMaria
-my cool cv
+# CV Maria Luque Anguita
 
-Open index.html to view it.
+2019
+
+Open index.html to view it or go to
+
+https://marialuquea.github.io/marialuquea/
 
 ![Screenshot](assets/img/screenshot.png)
